@@ -1,5 +1,5 @@
-<h1 style="text-align: center;">Among Us Modded Servers for Windows</h1>
-This project allows you to easily install modded Among Us servers on Windows
+# Among Us Modded Servers for Windows
+This project allows you to easily install modded Among Us servers on Windows.
 
 ## Screenshot
 ![Screenshot of Installer](installer_screenshot.png)
