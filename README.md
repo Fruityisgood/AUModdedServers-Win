@@ -5,4 +5,4 @@ This project allows you to easily install modded Among Us servers on Windows
 ![Screenshot of Installer](installer_screenshot.png)
 
 ## Downloads
-https://github.com/Fruityisgood/AmongUsModdedServers/releases/latest
+https://github.com/Fruityisgood/AmongUsModdedServersWindows/releases/latest
