@@ -1,1 +1,1 @@
-This installer will install modded Among Us servers such as skeld.net, Modded NA/EU/AS and NikoCat NA/EU/AS. Please make sure Among Us is closed before installing.
+This installer will install modded Among Us servers such as skeld.net (by Arkatme), Modded NA/EU/AS (by miniduikboot) and Niko NA/EU/AS (by Nikocat233). Please make sure Among Us is fully closed before installing.
